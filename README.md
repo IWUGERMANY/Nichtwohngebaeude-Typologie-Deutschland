@@ -11,7 +11,6 @@ The Concept of the typology was first published at the [eceee Summerstudy 2022](
 ---
 ## Zitieren --- How to cite
 Hörner, Michael; Bischof, Julian. Typologie der Nichtwohngebäude in Deutschland. Institut Wohnen und Umwelt (IWU). Darmstadt, 2022
-
 Hörner, Michael; Bischof, Julian. German non-residential building typology. Institut for housing and environment (IWU). Darmstadt, 2022
 ---
 
