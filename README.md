@@ -29,3 +29,6 @@ The German non-residential building typology has been developed in context of th
 in accordance with the parliamentary resolution of the German Parliament.
 
 Total number of individual page views: 
+ <a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l9oair9lt9n4pb5op4l9" alt="trackgit-views" />
+</a>
