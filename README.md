@@ -10,8 +10,8 @@ The Concept of the typology was first published at the [eceee Summerstudy 2022](
 
 ---
 ## Zitieren --- How to cite
-Hörner, Michael; Bischof, Julian. Typologie der Nichtwohngebäude in Deutschland. Institut Wohnen und Umwelt (IWU). Darmstadt, 2022
-Hörner, Michael; Bischof, Julian. German non-residential building typology. Institut for housing and environment (IWU). Darmstadt, 2022
+- Hörner, Michael; Bischof, Julian. Typologie der Nichtwohngebäude in Deutschland. Institut Wohnen und Umwelt (IWU). Darmstadt, 2022
+- Hörner, Michael; Bischof, Julian. German non-residential building typology. Institut for housing and environment (IWU). Darmstadt, 2022
 ---
 
 The German non-residential building typology has been developed in context of the 'ENOB:DataNWG Forschungsdatenbank Nichtwohngebäude' (www.datanwg.de) project and the project 'FlexGeber - Demonstration of flexibility options in the building sector and their integration with the energy system in Germany' at Institut Wohnen und Umwelt (IWU), Darmstadt.
